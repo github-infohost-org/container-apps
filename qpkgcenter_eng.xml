@@ -9,7 +9,7 @@
 		<imageType>lxc</imageType>
 		<repository>qnap</repository>
 		<icon>http://download.qnap.com/QPKG/images/QPKG/container/ubuntu_icon.png</icon>
-		<size>235826023</size>
+		<size>265195520</size>
 		<location>http://download.qnap.com/QPKG/container/ubuntu-xenial_16.04_amd64.tar.gz</location>
 		<description>
 			<![CDATA[Fast, free and incredibly easy to use, the Ubuntu operating system powers millions of desktop PCs, laptops and servers around the world.]]>
